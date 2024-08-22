@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{0228F99E-762C-440C-9F88-D8A0503E0A43}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.A2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Handler/A2AuthHandler.cs">
+    <Files>
+      <File FileName="Data/A2DbContext.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="Data/IA2Repo.cs" />
+      <File FileName="Data/A2Repo.cs" />
+      <File FileName="Controllers/A2Controller.cs" />
+      <File FileName="Handler/A2AuthHandler.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A2" expanded="True">
+            <Node name="A2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Handler" expanded="True">
+                <Node name="A2AuthHandler.cs" selected="True" />
+              </Node>
+              <Node name="Helper" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
