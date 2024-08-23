@@ -2,27 +2,26 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.A2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Handler/A2AuthHandler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/A2Controller.cs">
     <Files>
-      <File FileName="Data/A2DbContext.cs" />
-      <File FileName="Program.cs" />
-      <File FileName="appsettings.json" />
-      <File FileName="Data/IA2Repo.cs" />
-      <File FileName="Data/A2Repo.cs" />
-      <File FileName="Controllers/A2Controller.cs" />
-      <File FileName="Handler/A2AuthHandler.cs" Line="22" Column="1" />
+      <File FileName="Data/A2DbContext.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="29" Column="22" />
+      <File FileName="Data/IA2Repo.cs" Line="12" Column="33" />
+      <File FileName="Data/A2Repo.cs" Line="42" Column="10" />
+      <File FileName="Controllers/A2Controller.cs" Line="21" Column="56" />
+      <File FileName="Models/User.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="A2" expanded="True">
-            <Node name="A2" expanded="True">
-              <Node name="Controllers" expanded="True" />
+          <Node name="A2">
+            <Node name="A2">
+              <Node name="Controllers" expanded="True">
+                <Node name="A2Controller.cs" selected="True" />
+              </Node>
               <Node name="Data" expanded="True" />
               <Node name="Dtos" expanded="True" />
-              <Node name="Handler" expanded="True">
-                <Node name="A2AuthHandler.cs" selected="True" />
-              </Node>
+              <Node name="Handler" expanded="True" />
               <Node name="Helper" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
