@@ -1,36 +1,35 @@
 ﻿<Properties StartupConfiguration="{0228F99E-762C-440C-9F88-D8A0503E0A43}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.A2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/A2Controller.cs">
     <Files>
-      <File FileName="Data/A2DbContext.cs" Line="1" Column="1" />
-      <File FileName="Program.cs" Line="29" Column="22" />
-      <File FileName="Data/IA2Repo.cs" Line="12" Column="33" />
-      <File FileName="Data/A2Repo.cs" Line="42" Column="10" />
-      <File FileName="Controllers/A2Controller.cs" Line="21" Column="56" />
-      <File FileName="Models/User.cs" Line="1" Column="1" />
+      <File FileName="Data/A2Repo.cs" Line="118" Column="22" />
+      <File FileName="Program.cs" Line="43" Column="1" />
+      <File FileName="Controllers/A2Controller.cs" Line="72" Column="1" />
+      <File FileName="Handler/A2AuthHandler.cs" />
+      <File FileName="Data/IA2Repo.cs" Line="21" Column="1" />
+      <File FileName="Helper/CalendarOutputFormatter.cs" Line="34" Column="30" />
+      <File FileName="Models/Event.cs" Line="8" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="A2">
-            <Node name="A2">
-              <Node name="Controllers" expanded="True">
-                <Node name="A2Controller.cs" selected="True" />
-              </Node>
+            <Node name="A2" expanded="True">
+              <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
               <Node name="Dtos" expanded="True" />
               <Node name="Handler" expanded="True" />
               <Node name="Helper" expanded="True" />
+              <Node name="Logos" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
